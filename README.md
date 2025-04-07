@@ -11,7 +11,7 @@
 
 
 > Desenvolvida durante o TCC do curso de Desenvolvimento de Sistemas da ETEC Prof. Basilides de Godoy, a Prisma se trata de uma empresa ficticia
-> com a necessidade de um site (desenvolvido em asp.net) para catalogar e vender seus livros.
+> com a necessidade de um aplicativo (desenvolvido em flutter) para apresentar os livros ao consumidor.
 > Espero que goste!
 
 ## ☕ Apresentação
