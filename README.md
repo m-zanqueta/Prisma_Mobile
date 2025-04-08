@@ -26,7 +26,7 @@ Vídeo original: https://drive.google.com/file/d/1SGxbd4BaY-izcp2ukZbW7WPihsz9yL
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Instalar a versão mais recente de `<html / css / javascript / C# / asp.net>`
+- Instalar a versão mais recente de `<C++ / dart / Swift / fluttert>`
 - Ter uma máquina `<Windows / Linux / Mac>`.
 - Ler `<m-zanqueta/Prisma_Site/README.md>`.
 
@@ -43,9 +43,9 @@ Baixe o repositório e o execute em sua máquina
 Para contribuir com a Prisma, siga estas etapas:
 
 1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <prisma_site>`.
+2. Crie um branch: `git checkout -b <prisma_mobile>`.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <prisma_site> / <local>`
+4. Envie para o branch original: `git push origin <prisma_mobile> / <local>`
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
