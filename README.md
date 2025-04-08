@@ -26,7 +26,7 @@ Vídeo original: https://drive.google.com/file/d/1SGxbd4BaY-izcp2ukZbW7WPihsz9yL
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Instalar a versão mais recente de `<C++ / dart / Swift / fluttert>`
+- Instalar a versão mais recente de `<C++ / Dart / Swift / Fluttert>`
 - Ter uma máquina `<Windows / Linux / Mac>`.
 - Ler `<m-zanqueta/Prisma_Site/README.md>`.
 
