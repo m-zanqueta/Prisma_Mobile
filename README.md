@@ -16,10 +16,10 @@
 
 ## ☕ Apresentação
 
-Vídeo apresentativo sobre o projeto:
+Vídeo de apresentação das funcionalidades do projeto:
 
 ```
-<Vídeo original: https://drive.google.com/file/d/1SDK9HXW6jzKruM0wkKsIQyIDWBjzmLVt/view?usp=drive_link>
+Vídeo original: https://drive.google.com/file/d/1SGxbd4BaY-izcp2ukZbW7WPihsz9yLs0/view?usp=sharing
 ```
 
 ## 💻 Pré-requisitos
