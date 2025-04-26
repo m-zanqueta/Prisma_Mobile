@@ -19,7 +19,7 @@
 Vídeo de apresentação das funcionalidades do projeto:
 
 ```
-Vídeo original: https://drive.google.com/file/d/1SGxbd4BaY-izcp2ukZbW7WPihsz9yLs0/view?usp=sharing
+Vídeo: https://drive.google.com/file/d/1SGxbd4BaY-izcp2ukZbW7WPihsz9yLs0/view?usp=sharing
 ```
 
 ## 💻 Pré-requisitos
