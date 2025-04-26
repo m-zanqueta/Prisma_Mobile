@@ -1,4 +1,4 @@
-# Livraria Prisma - Site
+# Livraria Prisma - Mobile
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/m-zanqueta/prisma_mobile?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/m-zanqueta/prisma_mobile?style=for-the-badge)
